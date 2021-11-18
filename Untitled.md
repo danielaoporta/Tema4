@@ -187,18 +187,6 @@ asd = np.empty((N, len(desplazamiento)))
 
 # Nueva figura para la autocorrelación
 plt.figure()
-```
-
-
-
-
-    <Figure size 432x288 with 0 Axes>
-
-
-
-
-    <Figure size 432x288 with 0 Axes>
-
 
 
 ```python
